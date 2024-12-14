@@ -1,7 +1,7 @@
 # saloniverma![github-header-image](https://github.com/user-attachments/assets/35579a60-3df5-4d3e-a457-cc30ca063edf)
 <h1 align="center">Hi 👋, I'm saloni verma</h1>
 <h3 align="center">A passionate devops engineer from India</h3>
-<img align ='center" alt="coding" width='400" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s
+<img align ='right" alt="coding" width='400" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pixelpeeonir&label=Profile%20views&color=0e75b6&style=flat" alt="pixelpeeonir" /> </p>
 
