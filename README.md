@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **adobe,engineering student**
 
-- 📝 I regularly write articles on [my notepad](my notepad)
+- 📝 I regularly write articles on [my notepad]
 
 - 💬 Ask me about **web designs**
 
