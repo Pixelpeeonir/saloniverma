@@ -1,7 +1,7 @@
 # saloniverma![github-header-image](https://github.com/user-attachments/assets/35579a60-3df5-4d3e-a457-cc30ca063edf)
 <h1 align="center">Hi 👋, I'm saloni verma</h1>
-<h3 align="center">A passionate devops engineer from India</h3>
-<img align ='right" alt="coding" width='400" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5034&pause=1000&width=435&lines=hey+!+i+am+saloni%2C+a+devops+engineer" alt="Typing SVG" /></a>
+<img align ='right" alt="coding" width='400" src=https://camo.githubusercontent.com/0133b8459e658004e50eb0ef32f2806e2cf25fc2c9e53944c9b709d7734f8bf9/68747470733a2f2f696b2e696d6167656b69742e696f2f647265736d612f447265736d615f4c6962726172792f73656e696f722d736f6674776172652d656e67696e6565725f57793832745951796d2e676966
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pixelpeeonir&label=Profile%20views&color=0e75b6&style=flat" alt="pixelpeeonir" /> </p>
 
@@ -21,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<img align ='right" alt="coding" width='400" src=https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966
 <a href="https://linkedin.com/in/www.linkedin.com/in/ saloni-verma-08581a2bb vanity url name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ saloni-verma-08581a2bb vanity url name" height="30" width="40" /></a>
 <a href="https://fb.com/saloni verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saloni verma" height="30" width="40" /></a>
 <a href="https://instagram.com/xo_hazelbelle_41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xo_hazelbelle_41" height="30" width="40" /></a>
