@@ -1,7 +1,5 @@
-# saloniverma![github-header-image](https://github.com/user-attachments/assets/35579a60-3df5-4d3e-a457-cc30ca063edf)
+saloniverma![github-header-image](https://github.com/user-attachments/assets/35579a60-3df5-4d3e-a457-cc30ca063edf)
 <h1 align="center">Hi 👋, I'm saloni verma</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5034&pause=1000&width=435&lines=hey+!+i+am+saloni%2C+a+devops+engineer" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5034&pause=1000&color=F72056&background=E3F14200&width=435&lines=passionate+in+web+designing." alt="Typing SVG" /></a>
 <img align ='right" alt="coding" width='400" src=https://camo.githubusercontent.com/0133b8459e658004e50eb0ef32f2806e2cf25fc2c9e53944c9b709d7734f8bf9/68747470733a2f2f696b2e696d6167656b69742e696f2f647265736d612f447265736d615f4c6962726172792f73656e696f722d736f6674776172652d656e67696e6565725f57793832745951796d2e676966
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pixelpeeonir&label=Profile%20views&color=0e75b6&style=flat" alt="pixelpeeonir" /> </p>
