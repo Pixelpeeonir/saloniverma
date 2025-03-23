@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pixelpeeonir" alt="pixelpeeonir" /></a> </p>
 
-- 🔭 I’m currently working on **javascript**
+- 🔭 I’m currently working on **linux**
 
-- 🌱 I’m currently learning **adobe,engineering student**
+- 🌱 I’m currently learning **docker,cs engineering student**
 
-- 📝 I regularly write articles on [my notepad]
+- 📝 I regularly write codes on [my vs code]
 
 - 💬 Ask me about **web designs**
 
